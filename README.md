@@ -5,7 +5,7 @@ The jni demo and some utils about jni.
 Please feel free to ping me at rhino_luo@163.com.
 
 # License
-Copyright 2017 rhino luo
+Copyright 2018 rhino luo
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
